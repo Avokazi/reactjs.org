@@ -12,6 +12,11 @@ Do you know of a local React.js conference? Add it here! (Please keep the list c
 
 ## Upcoming Conferences {#upcoming-conferences}
 
+### React JS Global Summit {#reactjsglobalsummit}
+September 15, 2020, Online
+
+[Website](https://react.geekle.us/) - [Twitter](https://twitter.com/GeekleOfficial) - [Facebook](https://www.facebook.com/geekleclubs/)
+
 ### Reactathon 2020 {#reactathon-2020}
 March 30 - 31, 2020 in San Francisco, CA
 
